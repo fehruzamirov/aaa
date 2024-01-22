@@ -1,4 +1,4 @@
-package com.operations.digitalbank;
+﻿package com.operations.digitalbank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
